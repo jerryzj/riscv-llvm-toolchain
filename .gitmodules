@@ -1,15 +1,15 @@
 [submodule "riscv-clang"]
 	path = riscv-clang
-	url = ../riscv-clang
+	url = https://github.com/andestech/riscv-clang
 [submodule "riscv-llvm"]
 	path = riscv-llvm
-	url = ../riscv-llvm
+	url = https://github.com/andestech/riscv-llvm
 [submodule "riscv-compiler-rt"]
 	path = riscv-compiler-rt
-	url = ../riscv-compiler-rt/
+	url = https://github.com/andestech/riscv-compiler-rt
 [submodule "riscv-gnu-toolchain"]
 	path = riscv-gnu-toolchain
 	url = https://github.com/riscv/riscv-gnu-toolchain.git
 [submodule "extern-gcc-testsuite"]
 	path = extern-gcc-testsuite
-	url = ../extern-gcc-testsuite
+	url = https://github.com/andestech/extern-gcc-testsuite
